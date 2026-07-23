@@ -1,0 +1,6 @@
+{
+  "name": "AI 個人英文學習教練",
+  "description": "會記住使用者、追蹤錯誤、安排複習、了解興趣，並透過真實輸出提升英文能力的 AI 英文教練與學習管理系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
